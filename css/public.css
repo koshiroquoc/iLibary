@@ -1,0 +1,78 @@
+.txt_titlemenu
+{
+	font-family: Tahoma;
+	font-size: 11px;
+	font-Weight:Bold;
+	color: #111111;
+	TEXT-DECORATION: none;
+	text-align: left;
+}
+.txt_head
+{
+	font-family: Tahoma;
+	
+	font-size: 11px;
+	font-Weight:Bold;
+	color: #FFFFFF;
+	TEXT-DECORATION: none;
+	text-align: left;
+}
+.txt_title
+{
+	font-family: Tahoma;
+	font-size: 11px;
+	font-Weight:Bold;
+	color: #0B819F;
+	TEXT-DECORATION: none;
+	text-align: left;
+}
+.book_title
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	TEXT-DECORATION: none;
+	text-align: justify;
+}	
+.news_title
+{
+	font-family: Times New Roman;
+	font-size: 14pt;
+	font-Weight:Bold;
+	color: #0B819F;
+	TEXT-DECORATION: none;
+	text-align: left;
+}
+body,td,th {color: #362F2D;font-family: Arial;font-size: 9pt;}
+.input_button {
+	background-color: #F5F5F5;
+	border: 1pt solid #94A5C5;
+	cursor: hand;
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 10px;
+	font-weight: bold;
+	height: auto;
+	margin: 1px;
+	padding: 1px;
+	text-align: center;
+	vertical-align: top;
+	width: auto;
+}
+.textbox {color: #000000; font: normal 12px tahoma, verdana, arial; border: 1px solid; border-color: #CECECE}
+.combobox
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border:1px solid;
+	border-color : #CECECE;
+	width:100px
+}
+a, a:link, a:active, a:visited {color: #003c5e; text-decoration:none}
+a:hover      {color: #ef6d00; text-decoration: underline}
+.combobox_home
+{ 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+ 	border:1px solid;
+	border-color : #CECECE;
+	width:145px
+}

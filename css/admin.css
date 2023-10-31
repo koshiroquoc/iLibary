@@ -1,0 +1,41 @@
+body,td,th {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #362F2D;
+}
+a:link {
+	color: #42803A;
+	text-decoration: none;		
+}
+a:visited {
+	color: #42803A;
+	text-decoration: none;	
+}
+a:hover {
+	color: Red;	
+}
+a:active {
+	color: #42803A;
+	text-decoration: none;		
+}
+.input_text
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	margin-left: 1px;
+	border: 1px inset #eeeeee;
+}
+.input_button {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 11px;
+	VERTICAL-ALIGN: top;
+	WIDTH: auto;
+	FONT-FAMILY: Tahoma, Verdana, Arial;
+	HEIGHT: auto;
+	TEXT-ALIGN: center;
+	background-color: White;
+	border: 1pt solid Silver;
+	margin: 1px;
+	padding: 1px;
+	cursor: hand;
+}
